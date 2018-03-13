@@ -1,2 +1,2 @@
 # Camera2TextureView
-利用TextureView实现camera2
+利用TextureView实现camera2Demo
